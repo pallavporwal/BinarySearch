@@ -9,7 +9,7 @@ import BinarySearch.BinarySearch;
 
 /**
  *
- * @author mohammed
+ * @author pallavp
  */
 public class BinarySearchDemo {
 

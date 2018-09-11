@@ -18,7 +18,7 @@ public class BinarySearchDemo {
         int value = 99;
         BinarySearch binarySearch = new BinarySearch(array, value);
         
-        System.out.println("Pallav Trying to invoke build after every push to repository.");
+        System.out.println("Pallav Trying to invoke build after every push to repository. - 3");
         
         System.out.println("Index= "+binarySearch.getSearchIndex());
         System.out.println("Number of tries= " + binarySearch.getNumberOfTries());

@@ -7,7 +7,7 @@ package BinarySearch;
 
 /**
  *
- * @author mohammed
+ * @author pallavp
  */
 public class BinarySearch {
 

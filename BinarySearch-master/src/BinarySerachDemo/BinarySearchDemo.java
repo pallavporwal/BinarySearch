@@ -23,5 +23,4 @@ public class BinarySearchDemo {
         System.out.println("Index= "+binarySearch.getSearchIndex());
         System.out.println("Number of tries= " + binarySearch.getNumberOfTries());
     }
-
 }
